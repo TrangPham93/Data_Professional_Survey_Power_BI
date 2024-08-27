@@ -1,8 +1,16 @@
 # Data Professional Survey: Power BI Visualization
 
+
+
 ## Objective
 
-## Table of contents
+Inspired by Alex Freberg's insight into his collected survey data, I generated a visualization in Power BI to provide further understanding of survey takers' backgrounds and opinions about data analyst as a profession. 
+
+## Data source
+
+[Click here for dataset](Assets/Dataset/Power BI - Final Project.xlsx)
+
+Collected by  Alex Freberg.
 
 ## Visualization
 
