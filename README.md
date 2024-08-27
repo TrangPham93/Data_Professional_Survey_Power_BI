@@ -18,5 +18,5 @@ Collected by  Alex Freberg.
 
 ![Survey_2](Assets/Images/Survey_2.png)
 
-## Insight
+
 
