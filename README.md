@@ -1,4 +1,4 @@
-# Data Professional Survey
+# Data Professional Survey: Power BI Visualization
 
 ## Objective
 
