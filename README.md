@@ -1,7 +1,5 @@
 # Data Professional Survey: Power BI Visualization
 
-
-
 ## Objective
 
 Inspired by Alex Freberg's insight into his collected survey data, I generated a visualization in Power BI to provide further understanding of survey takers' backgrounds and opinions about data analyst as a profession. 
@@ -19,3 +17,6 @@ Collected by  Alex Freberg.
 ![Survey_1](Assets/Images/Survey_1.png)
 
 ![Survey_2](Assets/Images/Survey_2.png)
+
+## Insight
+
