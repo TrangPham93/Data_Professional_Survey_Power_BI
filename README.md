@@ -8,7 +8,7 @@ Inspired by Alex Freberg's insight into his collected survey data, I generated a
 
 ## Data source
 
-[Click here for dataset](Assets/Dataset/Power BI - Final Project.xlsx)
+![Click here for dataset](Assets/Dataset/Power BI - Final Project.xlsx)
 
 Collected by  Alex Freberg.
 
