@@ -1,7 +1,7 @@
 # Data Professional Survey
 
-# Objective
+## Objective
 
-# Table of contents
+## Table of contents
 
-# Visualization
+## Visualization
